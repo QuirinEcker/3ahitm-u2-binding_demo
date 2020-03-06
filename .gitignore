@@ -209,3 +209,17 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macos,windows,jetbrains,visualstudiocode,java,maven
+
+.idea/.name
+
+.idea/compiler.xml
+
+.idea/encodings.xml
+
+.idea/misc.xml
+
+.idea/modules.xml
+
+.idea/vcs.xml
+
+javafx-demo.iml
