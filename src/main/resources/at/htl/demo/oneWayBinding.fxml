@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="at.htl.demo.OneWayBindingController">
+    <bottom>
+        <AnchorPane prefHeight="21.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+            <children>
+                <Button mnemonicParsing="false" text="Previous" AnchorPane.leftAnchor="0.0" />
+                <Button mnemonicParsing="false" text="Next" AnchorPane.rightAnchor="0.0" />
+            </children>
+        </AnchorPane>
+    </bottom>
+</BorderPane>
